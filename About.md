@@ -37,7 +37,7 @@ Hello! My name is Samuel Liu and I am a 2nd year Warren student studying Compute
 <br /><br /><br />
 My name is Yuru Zhou, a second year undergraduate student majoring in Mathematics & Computer Science. I am interested in web & mobile app development, and passionate about creating innovative solutions for future technology.
 [My Github Profile](https://github.com/xxwwyytt1)
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 ## Fengdi Liu
 <br /><br /><br />
