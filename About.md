@@ -45,17 +45,18 @@ TODO
 <br /><br /><br /><br />
 
 ## Joshue Aguirre
-<img align="left" src="profiles/JoshueAguirre.jpg" width=250>
+<img align="left" src="profiles/JoshueAguirre.jpg" width=250 style="margin-right: 20px;">
 <br /><br /><br />
 My name is Joshue Aguirre. I am a fourth year
 Computer Science major. I enjoy listening to music and playing video games. 
 [My Github Profile](https://github.com/Yoshisham)
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 ## Aven Huang
 <img align="left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 20px;">
 <br /><br /><br />
 My name is Aven Huang, and I named myself after my dog, Evan, as you can see in my picture. I’m a sophomore student majoring in Data Science.  
 [My Github Profile](https://github.com/xxwwyytt1)
+<br /><br /><br /><br /><br /><br /><br /><br />
 
-##### Please do not resize the website :)
+###### Please do not resize the website :)
