@@ -1,7 +1,7 @@
 [Home](https://melinucsd.github.io/cse110-team16-tmpwebsite/) > About Us
 # Who are we?
 ## Matias Lin
-<img align="left" src="profiles/MatiasLin.jpg" width=250>
+<img align="left" src="profiles/MatiasLin.jpg" width=250 style="margin-right: 20px;">
 Hey! My name is Matias Lin and I am a junior Muir student studying Bioinformatics under the Computer Science department. I'm very passionate about the possibilities of machine learning in the area of personalized medicine.
  - [My Github Profile](https://github.com/matiaslin)  
 
@@ -33,6 +33,6 @@ Computer Science major. I enjoy listening to music and playing video games.
 - [My Github Profile](https://github.com/Yoshisham)
 
 ## Aven Huang
-<img align="left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 10px;">
+<img align="left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 20px;">
 My name is Aven Huang, and I named myself after my dog, Evan, as you can see in my picture. I’m a sophomore student majoring in Data Science.
 - [My Github Profile](https://github.com/xxwwyytt1)
