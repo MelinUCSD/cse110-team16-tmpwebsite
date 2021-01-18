@@ -4,12 +4,12 @@
 <img align="left" src="profiles/MatiasLin.jpg" width=250 style="margin-right: 20px;">
 \
 \
+\
 Hey! My name is Matias Lin and I am a junior Muir student studying Bioinformatics under the Computer Science department. I'm very passionate about the possibilities of machine learning in the area of personalized medicine.  
 [My Github Profile](https://github.com/matiaslin)  
 \
-\
 
-\
+
 \
 ## Lara Daneshgaran Bajastani
 <img align="left" src="profiles/LaraDaneshgaran.jpg" width=250 style="margin-right: 20px;">
