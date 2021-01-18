@@ -1,4 +1,4 @@
-[Home]https://melinucsd.github.io/cse110-team16-tmpwebsite/) > About Us
+[Home](https://melinucsd.github.io/cse110-team16-tmpwebsite/) > About Us
 # Who are we?
 ## Matias Lin
 <img align="left" src="profiles/MatiasLin.jpg" width=250>
@@ -32,6 +32,6 @@ Computer Science major. I enjoy listening to music and playing video games.
 - [My Github Profile](https://github.com/Yoshisham)
 
 ## Aven Huang
-![img](profiles/AvenHuang.jpg){: width="250px" style="float:left; padding-right:10px" }
+<img align="float:left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 10px;">
 My name is Aven Huang, and I named myself after my dog, Evan, as you can see in my picture. I’m a sophomore student majoring in Data Science.
 - [My Github Profile](https://github.com/xxwwyytt1)
