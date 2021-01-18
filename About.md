@@ -30,8 +30,7 @@ TODO
 <img align="left" src="profiles/JoshueAguirre.jpg" width=250>
 My name is Joshue Aguirre. I am a fourth year
 Computer Science major. I enjoy listening to music and playing video games. 
-- [My Github Profile](https://github.com/Yoshisham)  
-
+- [My Github Profile](https://github.com/Yoshisham)
 ## Aven Huang
 <img align="float:left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 10px;">
 My name is Aven Huang, and I named myself after my dog, Evan, as you can see in my picture. I’m a sophomore student majoring in Data Science.
