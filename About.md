@@ -1,3 +1,4 @@
+[Home]https://melinucsd.github.io/cse110-team16-tmpwebsite/) > About Us
 # Who are we?
 ## Matias Lin
 <img align="left" src="profiles/MatiasLin.jpg" width=250>
