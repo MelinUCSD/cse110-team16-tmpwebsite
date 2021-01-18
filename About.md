@@ -1,12 +1,14 @@
 [Home](https://melinucsd.github.io/cse110-team16-tmpwebsite/) > About Us
 # Who are we?
 ## Matias Lin
-\
-\
 <img align="left" src="profiles/MatiasLin.jpg" width=250 style="margin-right: 20px;">
+\
+\
 Hey! My name is Matias Lin and I am a junior Muir student studying Bioinformatics under the Computer Science department. I'm very passionate about the possibilities of machine learning in the area of personalized medicine.  
 [My Github Profile](https://github.com/matiaslin)  
-
+\
+\
+\
 ## Lara Daneshgaran Bajastani
 TODO  
 ## Shuhua Xie
