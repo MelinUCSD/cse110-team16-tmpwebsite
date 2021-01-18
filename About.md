@@ -1,8 +1,22 @@
 # Who are we?
-## Profile 1
-## P2
-## P3
+## Matias Lin
 
-## ..
+## Lara Daneshgaran Bajastani
 
-## P9
+## Shuhua Xie
+
+## Kevin Stubbings 
+
+## Samuel Liu
+
+## Yuru Zhou
+
+## Fengdi Liu
+
+## Joshue Aguirre
+
+## Aven Huang
+
+<img align="left" src="AvenHuang.jpg">
+- Test 1
+- More Testing 
