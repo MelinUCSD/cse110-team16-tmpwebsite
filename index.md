@@ -1,4 +1,4 @@
-Home
+Home | [About Us](https://melinucsd.github.io/cse110-team16-tmpwebsite/About)
 # Skynet - Team 16
 
 ## Small intro - Branding?
