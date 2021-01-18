@@ -21,9 +21,9 @@ TODO
 
 ## Kevin Stubbings 
 <img align="left" src="profiles/KevinStubbings.jpg" width=250 style="margin-right: 20px;">
-<br /><br /><br />
-TODO
 <br /><br /><br /><br />
+TODO
+<br /><br /><br /><br /><br /><br />
 
 ## Samuel Liu
 <img align="left" src="profiles/SamuelLiu.jpg" width=250>
@@ -57,3 +57,5 @@ Computer Science major. I enjoy listening to music and playing video games.
 <br /><br /><br />
 My name is Aven Huang, and I named myself after my dog, Evan, as you can see in my picture. I’m a sophomore student majoring in Data Science.  
 [My Github Profile](https://github.com/xxwwyytt1)
+
+##### Please do not resize the website :)
