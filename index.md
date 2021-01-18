@@ -12,4 +12,5 @@ Our set of skills and diverse backgrounds allow us to overcome any challenge in 
 -  Peacemaker in nature. 
 
 ## Roster
+Click [here](https://melinucsd.github.io/cse110-team16-tmpwebsite/About) to get to know us!
 
