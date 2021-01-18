@@ -9,11 +9,11 @@ Hey! My name is Matias Lin and I am a junior Muir student studying Bioinformatic
 [My Github Profile](https://github.com/matiaslin)
 \
 \
+\
 
-\
-\
 ## Lara Daneshgaran-Bajastani
 <img align="left" src="profiles/LaraDaneshgaran.jpg" width=250 style="margin-right: 20px;">
+\
 \
 \
 TODO
@@ -85,9 +85,9 @@ Computer Science major. I enjoy listening to music and playing video games.
 [My Github Profile](https://github.com/Yoshisham)
 \
 \
+\
+\
 
-\
-\
 ## Aven Huang
 <img align="left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 20px;">
 \
