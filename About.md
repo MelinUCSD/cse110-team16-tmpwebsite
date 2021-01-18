@@ -29,7 +29,7 @@ TODO
 <img align="left" src="profiles/SamuelLiu.jpg" width=250 style="margin-right: 20px;">
 <br /><br /><br />
 Hello! My name is Samuel Liu and I am a 2nd year Warren student studying Computer Science. I love cooking, growing plants, and playing games. 
- - [My Github Profile](https://github.com/samliu000)
+[My Github Profile](https://github.com/samliu000)
 <br /><br /><br /><br />
 
 ## Yuru Zhou
@@ -50,7 +50,7 @@ TODO
 My name is Joshue Aguirre. I am a fourth year
 Computer Science major. I enjoy listening to music and playing video games. 
 [My Github Profile](https://github.com/Yoshisham)
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 ## Aven Huang
 <img align="left" src="profiles/AvenHuang.jpg" width=250 style="margin-right: 20px;">
