@@ -15,9 +15,10 @@ TODO
 <img align="left" src="profiles/SamuelLiu.jpg" width=250>
 Hello! My name is Samuel Liu and I am a 2nd year Warren student studying Computer Science. I love cooking, growing plants, and playing games. 
  - [My Github Profile](https://github.com/samliu000)
-  
+
+
 ## Yuru Zhou
-<img align="left" src="profiles/YuruZhou.png" width=250>
+<img align="left" src="profiles/YuruZhou.jpg" width=250>
 My name is Yuru Zhou, a second year undergraduate student majoring in Mathematics & Computer Science. I am interested in web & mobile app development, and passionate about creating innovative solutions for future technology.
  - [My Github Profile](https://github.com/xxwwyytt1)
 
@@ -31,7 +32,6 @@ Computer Science major. I enjoy listening to music and playing video games.
 - [My Github Profile](https://github.com/Yoshisham)
 
 ## Aven Huang
-
-<img align="left" src="AvenHuang.jpg" width=250>
+![img](profiles/AvenHuang.jpg){: width="250px" style="float:left; padding-right:10px" }
 My name is Aven Huang, and I named myself after my dog, Evan, as you can see in my picture. I’m a sophomore student majoring in Data Science.
 - [My Github Profile](https://github.com/xxwwyytt1)
